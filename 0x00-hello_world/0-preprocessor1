@@ -1,0 +1,13 @@
+#include <stdio.h>
+
+/**
+*main - this comppiles a c c file
+*Return: This returns 0
+*/
+
+int  main (void)
+{
+
+	return (0);
+}
+
